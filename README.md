@@ -66,8 +66,8 @@
 ##  Contact Me :speech_balloon:
 
 [![Twitter Badge](https://img.shields.io/badge/-@PabloGerardo24-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pablogerardo24)](https://twitter.com/pablogerardo24) 
-[![Linkedin Badge](https://img.shields.io/badge/-PabloOlivos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pabloolivos/)](https://www.linkedin.com/in/ashwanisng/) 
-[![Gmail Badge](https://img.shields.io/badge/-PabloOlivos24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pabloolivos24@gmail.com)](mailto:ashwanicena5@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-PabloOlivos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pabloolivos/)](https://www.linkedin.com/in/pabloolivos/) 
+[![Gmail Badge](https://img.shields.io/badge/-PabloOlivos24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pabloolivos24@gmail.com)](mailto:pabloolivos24@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/-@PabloGerardo24-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/ashwanisng/)](https://www.instagram.com/pablogerardo24/)
 
 
